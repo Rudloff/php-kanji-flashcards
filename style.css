@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+body { 
+	position:absolute;
+	width:100%;
+	margin:0;
+	top:30%;
+	text-align:center;
+     }
+#kanji{ 
+	font-size:100pt; 
+	}
+#reading{ 
+	font-size:x-large; 
+	}
+	

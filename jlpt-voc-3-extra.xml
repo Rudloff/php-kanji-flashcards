@@ -1,0 +1,663 @@
+<!--
+# JLPT vocabulary, level 1
+# Copyright (C) 2001 Thierry Bézecourt (http://www.thbz.org)
+# License information: 
+
+# You can use this file freely in a non-commercial way. If you plan to
+# make it available publicly in a book, a software or whatever medium,
+# whether freely or not, you must include the first two lines of this
+# file (the copyright information) and tell me about it by sending an
+# e-mail to kanjimots@thbz.org. Thanks.
+
+# If the kanji are not displayed correctly on your screen, you may 
+# either:
+# - in your Internet browser, change the encoding to "Unicode (UTF-8)"
+#   (in the "View" menu).
+# - or save the file on your disk, and open it with a Japanese editor 
+#   such as the excellent JWPce 
+#   (http://www.physics.ucla.edu/~grosenth/jwpce.html). 
+
+# format:
+# field #1 (optional): kanji representation of the word
+# field #2 (mandatory): kana representation of the word
+# field #3 (optional): remarks, between parenthesis
+</word>
+<word><kanji># 06-FEB-03: Modified by Norbert Burger (norbert.burger@mindspring.com)</word>
+<word><kanji># to include EDICT definition</word>
+<word><kanji># field #4 (optional): English definition from EDICT V03-001
+-->
+<list>
+<word><kanji>あ<reading>（感動詞）</reading></kanji></word>
+<word><kanji>ああ<reading>（指示詞）</reading></kanji><meaning>(int) Ah!/Oh!/Alas!</meaning></word>
+<word><kanji>あいさつ</kanji><meaning>(n,vs) greeting/salutation</meaning></word>
+<word><kanji>間<reading>あいだ</reading></kanji><meaning>(n) space/room/time/pause</meaning></word>
+<word><kanji>合う<reading>あう</reading></kanji><meaning>(v5u) to fit/to suit/to agree with/to match/to be correct/to be profitable</meaning></word>
+<word><kanji>あかちゃん</kanji><meaning>(n) baby/infant</meaning></word>
+<word><kanji>上る<reading>あがる</reading></kanji><meaning>(v5r) to rise/to ascend/to be promoted/to go up/to climb/to go to (the capital)/to add up to/to advance (in price)/to sail up/to come up (on the agenda)</meaning></word>
+<word><kanji>赤ん坊<reading>あかんぼう</reading></kanji><meaning>(n) baby</meaning></word>
+<word><kanji>空く<reading>あく</reading></kanji><meaning>(v5k,vi) (1) to open/to become open/to become empty</meaning><meaning>(2) to be less crowded</meaning></word>
+<word><kanji>あげる<reading>（お祝いをあげる）</reading></kanji><meaning>(v1) to lift/to fry</meaning></word>
+<word><kanji>朝寝坊<reading>あさねぼう</reading></kanji><meaning>(n,vs) oversleeping/late riser</meaning></word>
+<word><kanji>味<reading>あじ</reading></kanji><meaning>(adj-na,n) flavor/taste</meaning></word>
+<word><kanji>明日<reading>あす</reading></kanji><meaning>(n-t) tomorrow</meaning></word>
+<word><kanji>遊び<reading>あそび</reading></kanji><meaning>(n,n-suf) playing</meaning></word>
+<word><kanji>集る<reading>あつまる</reading></kanji><meaning>(v5r) (1) to gather/to crowd round/to swarm/to flock</meaning><meaning>(2) to extort from/to sponge off</meaning></word>
+<word><kanji>集める<reading>あつめる</reading></kanji><meaning>(v1,vt) to collect/to assemble</meaning></word>
+<word><kanji>謝る<reading>あやまる</reading></kanji><meaning>(v5r) to apologize</meaning></word>
+<word><kanji>アルバイト</kanji><meaning>(de:) (n) part-time job (esp. high school students) (de: Arbeit)</meaning></word>
+<word><kanji>安心<reading>あんしん</reading></kanji><meaning>(n) (Buddhism) obtaining peace of mind through faith or ascetic practice</meaning></word>
+<word><kanji>安全<reading>あんぜん</reading></kanji><meaning>(adj-na,n) safety/security</meaning></word>
+<word><kanji>あんな</kanji><meaning>(adj-na,adj-pn) such/so/that/sort of</meaning></word>
+<word><kanji>案内<reading>あんない</reading></kanji><meaning>(n,vs) information/guidance/leading</meaning></word>
+<word><kanji>以下<reading>いか</reading></kanji><meaning>(n) less than/up to/below/under/and downward/not exceeding/the following/the rest</meaning></word>
+<word><kanji>以外<reading>いがい</reading></kanji><meaning>(n-adv) with the exception of/excepting</meaning></word>
+<word><kanji>いかが</kanji><meaning>(adj-na,adv,n) how/in what way</meaning></word>
+<word><kanji>医学<reading>いがく</reading></kanji><meaning>(n) medical science/medicine</meaning></word>
+<word><kanji>生きる<reading>いきる</reading></kanji><meaning>(v1) to live/to exist</meaning></word>
+<word><kanji>いくら~ても</kanji></word>
+<word><kanji>意見<reading>いけん</reading></kanji><meaning>(n) opinion/view</meaning></word>
+<word><kanji>石<reading>いし</reading></kanji><meaning>(n) volume measure (approx. 180l, 5 bushels, 10 cub.ft)</meaning></word>
+<word><kanji>いじめる</kanji><meaning>(v1) to tease/to torment/to persecute/to chastise</meaning></word>
+<word><kanji>以上<reading>いじょう</reading></kanji><meaning>(n-adv,n-t) more than/exceeding/greater than/this is all/over/above/and up/beyond/the above-mentioned/since/as long as/the end</meaning></word>
+<word><kanji>急ぐ<reading>いそぐ</reading></kanji><meaning>(v5g) to hurry/to rush</meaning></word>
+<word><kanji>致す<reading>いたす</reading></kanji><meaning>(v5s) (hum) to do</meaning></word>
+<word><kanji>いただく</kanji><meaning>(v5k) to receive/to take food or drink (hum)/to be crowned with/to wear/to live under (a ruler)/to install (a president)/to accept/to buy/to take</meaning></word>
+<word><kanji>一度<reading>いちど</reading></kanji><meaning>(n-adv) once/one time/on one occasion</meaning></word>
+<word><kanji>一生懸命<reading>いっしょうけんめい</reading></kanji><meaning>(adj-na,n-adv,n) very hard/with utmost effort/with all one's might</meaning></word>
+<word><kanji>いっぱい<reading>（副詞）</reading></kanji><meaning>(adj-na,adv,n) (1) a cup of/a drink</meaning><meaning>(2) full</meaning><meaning>(3) to the utmost/up to (one's income)/a lot of/much</meaning></word>
+<word><kanji>糸<reading>いと</reading></kanji><meaning>(n,n-suf) thread/yarn/string</meaning></word>
+<word><kanji>以内<reading>いない</reading></kanji><meaning>(n,n-suf) within/inside of/less than</meaning></word>
+<word><kanji>田舎<reading>いなか</reading></kanji><meaning>(gikun) (n) rural/not particularly urban/countryside/suburb</meaning></word>
+<word><kanji>祈る<reading>いのる</reading></kanji><meaning>(v5r,vi) to pray/to wish</meaning></word>
+<word><kanji>いらっしゃる</kanji><meaning>(v5aru) (hon) to be/to come/to go</meaning></word>
+<word><kanji>~員<reading>~いん</reading></kanji></word>
+<word><kanji>植える<reading>うえる</reading></kanji><meaning>(v1) to plant/to grow</meaning></word>
+<word><kanji>うかがう</kanji><meaning>(v5u,vi,vt) (hon) to visit/to ask/to inquire/to hear/to be told/to implore (a god for an oracle)</meaning></word>
+<word><kanji>受付<reading>うけつけ</reading></kanji><meaning>(n) receipt/acceptance/reception (desk)/information desk</meaning></word>
+<word><kanji>受ける<reading>うける</reading></kanji><meaning>(v1) to undertake/to accept/to take (lesson, test, damage)/to undergo/to experience/to catch (e.g. a ball)/to become popular</meaning></word>
+<word><kanji>動く<reading>うごく</reading></kanji><meaning>(v5k,vi) to move/to stir/to shift/to shake/to swing/to operate/to run/to go/to work/to be touched/to be influenced/to waver/to fluctuate/to vary/to change/to be transferred</meaning></word>
+<word><kanji>うそ</kanji><meaning>(n) lie/falsehood/incorrect fact/inappropriate</meaning></word>
+<word><kanji>うち<reading>（この二つのうち）</reading></kanji><meaning>(n) inside</meaning></word>
+<word><kanji>打つ<reading>うつ</reading></kanji><meaning>(v5t) to hit/to strike</meaning></word>
+<word><kanji>美しい<reading>うつくしい</reading></kanji><meaning>(adj) beautiful/lovely</meaning></word>
+<word><kanji>写す<reading>うつす</reading></kanji><meaning>(v5s) to film/to transcribe/to duplicate/to reproduce/to trace/to describe/to picture/to photograph/to imitate</meaning></word>
+<word><kanji>移る<reading>うつる</reading></kanji><meaning>(v5r) (1) to move (house)/to transfer (department)</meaning><meaning>(2) to be infected/to be contagious</meaning></word>
+<word><kanji>腕<reading>うで</reading></kanji><meaning>(n) (1) arm</meaning><meaning>(2) skill</meaning></word>
+<word><kanji>うまい</kanji><meaning>(adj) delicious</meaning></word>
+<word><kanji>裏<reading>うら</reading></kanji><meaning>(n) reverse side/wrong side/back/undersurface/inside/palm/sole/opposite/rear/lining/last half (of an inning)</meaning></word>
+<word><kanji>売り場<reading>うりば</reading></kanji><meaning>(adj-no,n) place where things are sold/salesfloor/counter (in shop)</meaning></word>
+<word><kanji>うるさい</kanji><meaning>(adj) noisy/loud/fussy</meaning></word>
+<word><kanji>うれしい</kanji><meaning>(adj) happy/glad/pleasant</meaning></word>
+<word><kanji>うん<reading>（応答）</reading></kanji><meaning>(n) fortune/luck</meaning></word>
+<word><kanji>運転手<reading>うんてんしゅ</reading></kanji><meaning>(n) driver/chauffeur</meaning></word>
+<word><kanji>運転<reading>うんてん</reading></kanji><meaning>(n,vs) operation/motion/driving</meaning></word>
+<word><kanji>運動<reading>うんどう</reading></kanji><meaning>(n,vs) motion/exercise</meaning></word>
+<word><kanji>エスカレーター</kanji><meaning>(n) escalator</meaning></word>
+<word><kanji>枝<reading>えだ</reading></kanji><meaning>(n) branch/bow/twig/limb</meaning></word>
+<word><kanji>選ぶ<reading>えらぶ</reading></kanji><meaning>(v5b) to choose/to select</meaning></word>
+<word><kanji>遠慮<reading>えんりょ</reading></kanji><meaning>(adj-na,n,vs) diffidence/restraint/reserve</meaning></word>
+<word><kanji>おいでになる</kanji><meaning>(v5r) (hon) (uk) to be</meaning></word>
+<word><kanji>お祝い<reading>おいわい</reading></kanji><meaning>(n) congratulation/celebration</meaning></word>
+<word><kanji>応接間<reading>おうせつま</reading></kanji><meaning>(n) reception room</meaning></word>
+<word><kanji>多い<reading>おおい</reading></kanji><meaning>(adj) many/numerous</meaning></word>
+<word><kanji>大きな<reading>おおきな</reading></kanji></word>
+<word><kanji>オートバイ</kanji><meaning>(n) motorcycle (lit: auto-bi(ke))</meaning></word>
+<word><kanji>オーバー</kanji><meaning>(adj-na,n,vs) (1) overcoat</meaning><meaning>(2) over/exceeding/going beyond/exaggeration</meaning><meaning>(3) ball hit over the head of an outfielder (baseball)</meaning></word>
+<word><kanji>おかげ</kanji><meaning>(n) thanks or owing to</meaning></word>
+<word><kanji>おかしい</kanji><meaning>(adj) (uk) strange/funny/amusing/ridiculous</meaning></word>
+<word><kanji>~おき</kanji></word>
+<word><kanji>億<reading>おく</reading></kanji><meaning>(num) 100,000,000/hundred million</meaning></word>
+<word><kanji>屋上<reading>おくじょう</reading></kanji><meaning>(n) rooftop</meaning></word>
+<word><kanji>贈り物<reading>おくりもの</reading></kanji><meaning>(n) present/gift</meaning></word>
+<word><kanji>送る<reading>おくる</reading></kanji><meaning>(v5r) to send (a thing)/to dispatch/to take or escort (a person somewhere)/to see off (a person)/to spend a period of time/to live a life</meaning></word>
+<word><kanji>遅れる<reading>おくれる</reading></kanji><meaning>(v1) to be late/to be delayed/to fall behind schedule</meaning></word>
+<word><kanji>お子さん<reading>おこさん</reading></kanji><meaning>(n) (someone else's) child</meaning></word>
+<word><kanji>起す<reading>おこす</reading></kanji><meaning>(io) (v5s) to raise/to cause/to wake someone</meaning></word>
+<word><kanji>行う<reading>おこなう</reading></kanji><meaning>(v5u) to perform/to do/to conduct oneself/to carry out</meaning></word>
+<word><kanji>怒る<reading>おこる</reading></kanji><meaning>(v5r) (1) to get angry/to get mad</meaning><meaning>(2) to be angry</meaning></word>
+<word><kanji>押し入れ<reading>おしいれ</reading></kanji><meaning>(n) closet</meaning></word>
+<word><kanji>お嬢さん<reading>おじょうさん</reading></kanji><meaning>(n) (1) (hon) daughter</meaning><meaning>(2) young lady</meaning></word>
+<word><kanji>お宅<reading>おたく</reading></kanji><meaning>(n) (pol) your house/your home/you</meaning></word>
+<word><kanji>落る<reading>おちる</reading></kanji></word>
+<word><kanji>おっしゃる</kanji><meaning>(v5aru) (hon) to say/to speak/to tell/to talk</meaning></word>
+<word><kanji>音<reading>おと</reading></kanji><meaning>(n,n-suf) sound/note</meaning></word>
+<word><kanji>落す<reading>おとす</reading></kanji><meaning>(io) (v5s) to drop/to lose/to let fall</meaning></word>
+<word><kanji>踊り<reading>おどり</reading></kanji><meaning>(n) dance</meaning></word>
+<word><kanji>踊る<reading>おどる</reading></kanji><meaning>(v5r) to dance</meaning></word>
+<word><kanji>驚く<reading>おどろく</reading></kanji><meaning>(v5k) to be surprised/to be astonished</meaning></word>
+<word><kanji>お祭り<reading>おまつり</reading></kanji></word>
+<word><kanji>お見舞い<reading>おみまい</reading></kanji><meaning>(n) calling on someone who is ill/enquiry</meaning></word>
+<word><kanji>お土産<reading>おみやげ</reading></kanji><meaning>(n) present/souvenir</meaning></word>
+<word><kanji>思い出す<reading>おもいだす</reading></kanji><meaning>(v5s) to recall/to remember</meaning></word>
+<word><kanji>思う<reading>おもう</reading></kanji><meaning>(v5u) to think/to feel</meaning></word>
+<word><kanji>おもちゃ</kanji><meaning>(n) (uk) toy</meaning></word>
+<word><kanji>表<reading>おもて</reading></kanji><meaning>(n,n-suf) table (e.g. Tab 1)/chart/list</meaning></word>
+<word><kanji>おや<reading>（感動詞）</reading></kanji><meaning>(n) parents</meaning></word>
+<word><kanji>下りる<reading>おりる</reading></kanji><meaning>(v1) to alight (e.g. from bus)/to get off/to descend (e.g. a mountain)</meaning></word>
+<word><kanji>おる<reading>（”いる”の謙譲語）</reading></kanji><meaning>(v5r) to break/to fold/to pick flower</meaning></word>
+<word><kanji>お礼<reading>おれい</reading></kanji><meaning>(n) thanking/expression of gratitude</meaning></word>
+<word><kanji>折れる<reading>おれる</reading></kanji><meaning>(v1,vi,vt) to break/to be folded/to give in/to turn (a corner)</meaning></word>
+<word><kanji>終わり<reading>おわり</reading></kanji><meaning>(n) the end</meaning></word>
+<word><kanji>~家<reading>~か</reading></kanji></word>
+<word><kanji>カーテン</kanji><meaning>(n) curtain/carton</meaning></word>
+<word><kanji>~会<reading>~かい</reading></kanji></word>
+<word><kanji>海岸<reading>かいがん</reading></kanji><meaning>(n) coast/beach</meaning></word>
+<word><kanji>会議<reading>かいぎ</reading></kanji><meaning>(n) meeting/conference/session/assembly/council/convention/congress</meaning></word>
+<word><kanji>会場<reading>かいじょう</reading></kanji><meaning>(n) assembly hall/meeting place/the grounds</meaning></word>
+<word><kanji>会話<reading>かいわ</reading></kanji><meaning>(n) conversation</meaning></word>
+<word><kanji>帰り<reading>かえり</reading></kanji><meaning>(n) return/coming back</meaning></word>
+<word><kanji>変える<reading>かえる</reading></kanji><meaning>(v1,vt) to change/to alter/to vary/to convert/to revise/to amend</meaning></word>
+<word><kanji>科学<reading>かがく</reading></kanji><meaning>(n) science</meaning></word>
+<word><kanji>鏡<reading>かがみ</reading></kanji><meaning>(n) mirror</meaning></word>
+<word><kanji>~学部<reading>~がくぶ</reading></kanji></word>
+<word><kanji>飾る<reading>かざる</reading></kanji><meaning>(v5r) to decorate/to ornament/to adorn</meaning></word>
+<word><kanji>火事<reading>かじ</reading></kanji><meaning>(n) fire/conflagration</meaning></word>
+<word><kanji>ガソリン</kanji><meaning>(n) gasoline/petrol</meaning></word>
+<word><kanji>ガソリンスタンド</kanji><meaning>(n) gasoline stand/gas station</meaning></word>
+<word><kanji>かた<reading>（読み方）</reading></kanji><meaning>(adj-na,n) many/plentiful</meaning></word>
+<word><kanji>形<reading>かたち</reading></kanji><meaning>(n) form/shape/figure/type</meaning></word>
+<word><kanji>片付ける<reading>かたづける</reading></kanji><meaning>(v1) to tidy up/to put in order/to straighten up/to put away</meaning></word>
+<word><kanji>勝つ<reading>かつ</reading></kanji><meaning>(v5t) to win/to gain victory</meaning></word>
+<word><kanji>かっこう</kanji><meaning>(n) descent (in skiing)</meaning></word>
+<word><kanji>悲しい<reading>かなしい</reading></kanji><meaning>(adj) sad/sorrowful</meaning></word>
+<word><kanji>必ず<reading>かならず</reading></kanji><meaning>(adv) necessarily/certainly/without fail/positively/invariably</meaning></word>
+<word><kanji>金持ち<reading>かねもち</reading></kanji><meaning>(n) rich man</meaning></word>
+<word><kanji>彼女<reading>かのじょ</reading></kanji><meaning>(n) she/girl friend/sweetheart</meaning></word>
+<word><kanji>壁<reading>かべ</reading></kanji><meaning>(n) wall</meaning></word>
+<word><kanji>かまう<reading>（かまいません）</reading></kanji><meaning>(v5u) to mind/to care about/to be concerned about</meaning></word>
+<word><kanji>髪<reading>かみ</reading></kanji><meaning>(n) hair</meaning></word>
+<word><kanji>かむ</kanji><meaning>(v5m) to bite/to chew/to gnaw</meaning></word>
+<word><kanji>通う<reading>かよう</reading></kanji><meaning>(v5u) (1) to go back and forth/to ply between</meaning><meaning>(2) to commute/to attend (school, church, etc.)</meaning></word>
+<word><kanji>ガラス</kanji><meaning>(n) glass/pane</meaning></word>
+<word><kanji>彼<reading>かれ</reading></kanji><meaning>(n) he/boyfriend</meaning></word>
+<word><kanji>彼ら<reading>かれら</reading></kanji><meaning>(n) they (usually male)</meaning></word>
+<word><kanji>乾く<reading>かわく</reading></kanji><meaning>(v5k,vi) to get dry</meaning></word>
+<word><kanji>代わり<reading>かわり</reading></kanji><meaning>(n) substitute/deputy/proxy/alternate/relief/compensation/second helping</meaning></word>
+<word><kanji>変わる<reading>かわる</reading></kanji><meaning>(v5r,vi) to change/to be transformed/to vary/to be revised/to be different/to move location</meaning></word>
+<word><kanji>考える<reading>かんがえる</reading></kanji><meaning>(v1) to consider</meaning></word>
+<word><kanji>関係<reading>かんけい</reading></kanji><meaning>(n,vs) relation/connection</meaning></word>
+<word><kanji>看護婦<reading>かんごふ</reading></kanji><meaning>(n) (female) nurse</meaning></word>
+<word><kanji>簡単<reading>かんたん</reading></kanji><meaning>(adj-na,n) simple</meaning></word>
+<word><kanji>がんばる</kanji><meaning>(v5r) to persist/to insist on/to stand firm/to try one's best</meaning></word>
+<word><kanji>気<reading>き</reading></kanji><meaning>(n) spirit/mood</meaning></word>
+<word><kanji>機械<reading>きかい</reading></kanji><meaning>(n) machine/mechanism</meaning></word>
+<word><kanji>機会<reading>きかい</reading></kanji><meaning>(n) chance/opportunity</meaning></word>
+<word><kanji>危険<reading>きけん</reading></kanji><meaning>(adj-na,n) danger/peril/hazard</meaning></word>
+<word><kanji>聞こえる<reading>きこえる</reading></kanji><meaning>(v1) to be heard/to be audible</meaning></word>
+<word><kanji>汽車<reading>きしゃ</reading></kanji><meaning>(n) train (steam)</meaning></word>
+<word><kanji>技術<reading>ぎじゅつ</reading></kanji><meaning>(n) art/technique/technology/skill</meaning></word>
+<word><kanji>季節<reading>きせつ</reading></kanji><meaning>(n) season</meaning></word>
+<word><kanji>規則<reading>きそく</reading></kanji><meaning>(n) rule/regulations</meaning></word>
+<word><kanji>きっと</kanji><meaning>(adv,n) (1) (uk) surely/undoubtedly/certainly/without fail</meaning><meaning>(2) sternly/severely</meaning></word>
+<word><kanji>絹<reading>きぬ</reading></kanji><meaning>(n) silk</meaning></word>
+<word><kanji>厳しい<reading>きびしい</reading></kanji><meaning>(adj) severe/strict/stern/austere/grave/solemn/majestic/intense (cold)</meaning></word>
+<word><kanji>気分<reading>きぶん</reading></kanji><meaning>(n) feeling/mood</meaning></word>
+<word><kanji>決る<reading>きまる</reading></kanji><meaning>(io) (v5r) to be decided/to be settled/to look good in (clothes)</meaning></word>
+<word><kanji>君<reading>きみ</reading></kanji><meaning>(n,suf) Mr (junior)/master/boy</meaning></word>
+<word><kanji>決める<reading>きめる</reading></kanji><meaning>(v1) to decide</meaning></word>
+<word><kanji>気持ち<reading>きもち</reading></kanji><meaning>(n) feeling/sensation/mood</meaning></word>
+<word><kanji>着物<reading>きもの</reading></kanji><meaning>(n) kimono</meaning></word>
+<word><kanji>客<reading>きゃく</reading></kanji><meaning>(n) guest/customer</meaning></word>
+<word><kanji>急<reading>きゅう</reading></kanji><meaning>(adj-na,n) (1) urgent/sudden</meaning><meaning>(2) steep</meaning></word>
+<word><kanji>急行<reading>きゅうこう</reading></kanji><meaning>(n) express (e.g. train that bypasses many stations)</meaning></word>
+<word><kanji>教育<reading>きょういく</reading></kanji><meaning>(adj-no,n,vs) training/education</meaning></word>
+<word><kanji>教会<reading>きょうかい</reading></kanji><meaning>(n) church</meaning></word>
+<word><kanji>競争<reading>きょうそう</reading></kanji><meaning>(n,vs) competition/contest</meaning></word>
+<word><kanji>興味<reading>きょうみ</reading></kanji><meaning>(n) interest (in something)</meaning></word>
+<word><kanji>近所<reading>きんじょ</reading></kanji><meaning>(n) neighbourhood</meaning></word>
+<word><kanji>具合<reading>ぐあい</reading></kanji><meaning>(n) condition/state/manner/health</meaning></word>
+<word><kanji>空気<reading>くうき</reading></kanji><meaning>(n) air/atmosphere</meaning></word>
+<word><kanji>空港<reading>くうこう</reading></kanji><meaning>(n) airport</meaning></word>
+<word><kanji>草<reading>くさ</reading></kanji><meaning>(n) grass</meaning></word>
+<word><kanji>くださる</kanji><meaning>(v5aru) (hon) to give/to confer</meaning></word>
+<word><kanji>首<reading>くび</reading></kanji><meaning>(n) neck</meaning></word>
+<word><kanji>雲<reading>くも</reading></kanji><meaning>(n) cloud</meaning></word>
+<word><kanji>比べる<reading>くらべる</reading></kanji><meaning>(v1) to compare</meaning></word>
+<word><kanji>くれる</kanji><meaning>(v1) to get dark/to end/to come to an end/to close/to run out</meaning></word>
+<word><kanji>暮れる<reading>くれる</reading></kanji><meaning>(v1) to get dark/to end/to come to an end/to close/to run out</meaning></word>
+<word><kanji>~君<reading>~くん</reading></kanji></word>
+<word><kanji>け<reading>（髪の毛）</reading></kanji><meaning>(n) hair/fur</meaning></word>
+<word><kanji>け<reading>（毛のセータ）</reading></kanji><meaning>(n) hair/fur</meaning></word>
+<word><kanji>計画<reading>けいかく</reading></kanji><meaning>(n,vs) plan/project/schedule/scheme/program</meaning></word>
+<word><kanji>警官<reading>けいかん</reading></kanji><meaning>(n) policeman</meaning></word>
+<word><kanji>経験<reading>けいけん</reading></kanji><meaning>(n,vs) experience</meaning></word>
+<word><kanji>経済<reading>けいざい</reading></kanji><meaning>(n) economics/business/finance/economy</meaning></word>
+<word><kanji>警察<reading>けいさつ</reading></kanji><meaning>(n) police</meaning></word>
+<word><kanji>けが</kanji><meaning>(n,vs) injury (to animate object)/hurt</meaning></word>
+<word><kanji>景色<reading>けしき</reading></kanji><meaning>(n) scenery/scene/landscape</meaning></word>
+<word><kanji>下宿<reading>げしゅく</reading></kanji><meaning>(n,vs) boarding/lodging/boarding house</meaning></word>
+<word><kanji>決して<reading>けっして</reading></kanji><meaning>(adv) never/by no means</meaning></word>
+<word><kanji>けれど</kanji><meaning>(conj) but/however</meaning></word>
+<word><kanji>けれども</kanji><meaning>(conj,prt) but/however</meaning></word>
+<word><kanji>~軒<reading>~けん</reading></kanji></word>
+<word><kanji>原因<reading>げんいん</reading></kanji><meaning>(n) cause/origin/source</meaning></word>
+<word><kanji>けんか</kanji><meaning>price of a cocoon</meaning></word>
+<word><kanji>研究<reading>けんきゅう</reading></kanji><meaning>(n,vs) study/research/investigation</meaning></word>
+<word><kanji>研究室<reading>けんきゅうしつ</reading></kanji><meaning>(n) seminar room/laboratory/prof's office</meaning></word>
+<word><kanji>見物<reading>けんぶつ</reading></kanji><meaning>(n) a sight/an attraction/something worth seeing</meaning></word>
+<word><kanji>子<reading>こ</reading></kanji><meaning>(n) first sign of Chinese zodiac (The Rat, 11pm-1am, north, November)</meaning></word>
+<word><kanji>御~<reading>ご~</reading></kanji></word>
+<word><kanji>こう<reading>（指示詞）</reading></kanji><meaning>(n) box</meaning></word>
+<word><kanji>郊外<reading>こうがい</reading></kanji><meaning>(n) suburb/outskirts</meaning></word>
+<word><kanji>講義<reading>こうぎ</reading></kanji><meaning>(n,vs) lecture</meaning></word>
+<word><kanji>工業<reading>こうぎょう</reading></kanji><meaning>(n) (manufacturing) industry</meaning></word>
+<word><kanji>高校<reading>こうこう</reading></kanji><meaning>(n) senior high school</meaning></word>
+<word><kanji>高等学校<reading>こうとうがっこう</reading></kanji><meaning>senior high school</meaning></word>
+<word><kanji>高校生<reading>こうこうせい</reading></kanji><meaning>(n) senior high school student</meaning></word>
+<word><kanji>工場<reading>こうじょう</reading></kanji><meaning>(n) factory/plant/mill/workshop</meaning></word>
+<word><kanji>校長<reading>こうちょう</reading></kanji><meaning>(n) principal/headmaster</meaning></word>
+<word><kanji>交通<reading>こうつう</reading></kanji><meaning>(n) communication/transportation/traffic/intercourse</meaning></word>
+<word><kanji>講堂<reading>こうどう</reading></kanji><meaning>(n) auditorium</meaning></word>
+<word><kanji>公務員<reading>こうむいん</reading></kanji><meaning>(n) government worker/public (civil) servant</meaning></word>
+<word><kanji>国際<reading>こくさい</reading></kanji><meaning>(n) international</meaning></word>
+<word><kanji>心<reading>こころ</reading></kanji><meaning>(n) core/heart/wick/marrow</meaning></word>
+<word><kanji>~ございます</kanji></word>
+<word><kanji>故障<reading>こしょう</reading></kanji><meaning>(n,vs) break-down/failure/accident/out of order</meaning></word>
+<word><kanji>ご存じ<reading>ごぞんじ</reading></kanji><meaning>(n) knowing/acquaintance</meaning></word>
+<word><kanji>答<reading>こたえ</reading></kanji><meaning>(n) answer/response</meaning></word>
+<word><kanji>ごちそう</kanji><meaning>(n,vs) feast/treating (someone)</meaning></word>
+<word><kanji>こっち</kanji><meaning>(n) (1) (uk) this person</meaning><meaning>(2) this direction</meaning><meaning>(3) this side</meaning><meaning>(4) thereafter</meaning></word>
+<word><kanji>こと</kanji><meaning>(n) thing/matter/fact/circumstances/business/reason/experience</meaning></word>
+<word><kanji>小鳥<reading>ことり</reading></kanji><meaning>(n) small bird</meaning></word>
+<word><kanji>このあいだ</kanji><meaning>(n-adv) the other day/recently/lately/during this period</meaning></word>
+<word><kanji>このごろ</kanji><meaning>these days/nowadays</meaning></word>
+<word><kanji>細かい<reading>こまかい</reading></kanji><meaning>(adj) (1) small</meaning><meaning>(2) fine/minute</meaning></word>
+<word><kanji>ごみ</kanji><meaning>(n) (uk) rubbish/trash/garbage</meaning></word>
+<word><kanji>込む<reading>こむ</reading></kanji><meaning>(v5m) to be crowded</meaning></word>
+<word><kanji>米<reading>こめ</reading></kanji><meaning>(n) uncooked rice</meaning></word>
+<word><kanji>ごらんになる</kanji></word>
+<word><kanji>これから</kanji><meaning>(n-t) (uk) after this</meaning></word>
+<word><kanji>怖い<reading>こわい</reading></kanji><meaning>(adj) scary/frightening/eerie/dreadful</meaning></word>
+<word><kanji>壊す<reading>こわす</reading></kanji><meaning>(v5s,vt) to break/to break down</meaning></word>
+<word><kanji>壊れる<reading>こわれる</reading></kanji><meaning>(v1,vi) to be broken/to break</meaning></word>
+<word><kanji>コンサート</kanji><meaning>(n) concert</meaning></word>
+<word><kanji>今度<reading>こんど</reading></kanji><meaning>(n-adv,n-t) now/this time/next time/another time</meaning></word>
+<word><kanji>今夜<reading>こんや</reading></kanji><meaning>(n-adv,n-t) this evening/tonight</meaning></word>
+<word><kanji>最近<reading>さいきん</reading></kanji><meaning>(adj-no,n-adv,n-t) latest/most recent/nowadays</meaning></word>
+<word><kanji>最後<reading>さいご</reading></kanji><meaning>(n) last/end/conclusion</meaning></word>
+<word><kanji>最初<reading>さいしょ</reading></kanji><meaning>(adj-no,n-adv,n-t) beginning/outset/first/onset</meaning></word>
+<word><kanji>財布<reading>さいふ</reading></kanji><meaning>(n) purse/wallet</meaning></word>
+<word><kanji>探す<reading>さがす</reading></kanji><meaning>(v5s) to search/to seek/to look for</meaning></word>
+<word><kanji>下る<reading>さがる</reading></kanji><meaning>(v5r) to get down/to descend</meaning></word>
+<word><kanji>盛ん<reading>さかん</reading></kanji><meaning>(adj-na,n) popularity/prosperous</meaning></word>
+<word><kanji>下げる<reading>さげる</reading></kanji><meaning>(v1) to hang/to lower/to move back/to wear/to dismiss/to grant</meaning></word>
+<word><kanji>差し上げる<reading>さしあげる</reading></kanji><meaning>(v1) (pol) to give/to hold up/to lift up/to offer</meaning></word>
+<word><kanji>さっき</kanji><meaning>(n) thirst for blood</meaning></word>
+<word><kanji>寂しい<reading>さびしい</reading></kanji><meaning>(adj) lonely/lonesome/solitary/desolate</meaning></word>
+<word><kanji>~様<reading>~さま</reading></kanji></word>
+<word><kanji>さ来週<reading>さらいしゅう</reading></kanji></word>
+<word><kanji>騒ぐ<reading>さわぐ</reading></kanji><meaning>(v5g) to make noise/to clamor/to be excited/to be alarmed/to kick up a fuss/to make merry/to be annoying/to be troublesome/to make a noise</meaning></word>
+<word><kanji>触る<reading>さわる</reading></kanji><meaning>(v5r) to touch/to feel</meaning></word>
+<word><kanji>サンダル</kanji><meaning>(n) sandal</meaning></word>
+<word><kanji>サンドイッチ</kanji><meaning>(n) sandwich</meaning></word>
+<word><kanji>残念<reading>ざんねん</reading></kanji><meaning>(adj-na,n) deplorable/bad luck/regret/disappointment</meaning></word>
+<word><kanji>字<reading>じ</reading></kanji><meaning>(n) character/hand-writing</meaning></word>
+<word><kanji>試合<reading>しあい</reading></kanji><meaning>(n) match/game/bout/contest</meaning></word>
+<word><kanji>仕方<reading>しかた</reading></kanji><meaning>(n) way/method/means/resource/course</meaning></word>
+<word><kanji>しかる</kanji><meaning>(adj-pn) a particular/a certain</meaning></word>
+<word><kanji>~式<reading>~しき</reading></kanji></word>
+<word><kanji>試験<reading>しけん</reading></kanji><meaning>(n,vs) examination/test/study</meaning></word>
+<word><kanji>事故<reading>じこ</reading></kanji><meaning>(n) accident/incident/trouble/circumstances/reasons</meaning></word>
+<word><kanji>地震<reading>じしん</reading></kanji><meaning>(n) earthquake</meaning></word>
+<word><kanji>時代<reading>じだい</reading></kanji><meaning>(n-t) period/epoch/era</meaning></word>
+<word><kanji>下着<reading>したぎ</reading></kanji><meaning>(n) underwear</meaning></word>
+<word><kanji>支度<reading>したく</reading></kanji><meaning>(n,vs) preparation</meaning></word>
+<word><kanji>しっかり</kanji><meaning>(adj-na,adv,n) (uk) firmly/tightly/reliable/level-headed/steady</meaning></word>
+<word><kanji>失敗<reading>しっぱい</reading></kanji><meaning>(adj-no,n,vs) failure/mistake/blunder</meaning></word>
+<word><kanji>失礼<reading>しつれい</reading></kanji><meaning>(adj-na,int,n,vs,exp) (1) discourtesy/impoliteness</meaning><meaning>(2) Excuse me/Goodbye</meaning></word>
+<word><kanji>辞典<reading>じてん</reading></kanji><meaning>(n) dictionary</meaning></word>
+<word><kanji>品物<reading>しなもの</reading></kanji><meaning>(n) goods/article/thing</meaning></word>
+<word><kanji>しばらく</kanji><meaning>(adv,int) little while</meaning></word>
+<word><kanji>島<reading>しま</reading></kanji><meaning>(n) island</meaning></word>
+<word><kanji>しまう</kanji><meaning>(v5u) (uk) to finish/to close/to do something completely/to put away/to put an end to</meaning></word>
+<word><kanji>事務所<reading>じむしょ</reading></kanji><meaning>(n) office</meaning></word>
+<word><kanji>社会<reading>しゃかい</reading></kanji><meaning>(n) society/public</meaning></word>
+<word><kanji>社長<reading>しゃちょう</reading></kanji><meaning>(n) company president/manager/director</meaning></word>
+<word><kanji>じゃま</kanji><meaning>(adj-na,n,vs) hindrance/intrusion</meaning></word>
+<word><kanji>ジャム</kanji><meaning>(n) jam</meaning></word>
+<word><kanji>自由<reading>じゆう</reading></kanji><meaning>(adj-na,exp,n) freedom/liberty/as it pleases you</meaning></word>
+<word><kanji>習慣<reading>しゅうかん</reading></kanji><meaning>(n) custom/habit/manners</meaning></word>
+<word><kanji>住所<reading>じゅうしょ</reading></kanji><meaning>(n) address (e.g. of house)/residence/domicile</meaning></word>
+<word><kanji>柔道<reading>じゅうどう</reading></kanji><meaning>(n) judo</meaning></word>
+<word><kanji>十分<reading>じゅうぶん</reading></kanji><meaning>10 minutes</meaning></word>
+<word><kanji>出席<reading>しゅっせき</reading></kanji><meaning>(n,vs) attendance/presence</meaning></word>
+<word><kanji>出発<reading>しゅっぱつ</reading></kanji><meaning>(n,vs) departure</meaning></word>
+<word><kanji>趣味<reading>しゅみ</reading></kanji><meaning>(n) hobby/tastes/preference</meaning></word>
+<word><kanji>準備<reading>じゅんび</reading></kanji><meaning>(n,vs) preparation/arrangements/provision/reserve</meaning></word>
+<word><kanji>紹介<reading>しょうかい</reading></kanji><meaning>(n,vs) introduction</meaning></word>
+<word><kanji>正月<reading>しょうがつ</reading></kanji><meaning>(n) New Year/New Year's Day/the first month/January</meaning></word>
+<word><kanji>小学校<reading>しょうがっこう</reading></kanji><meaning>(n) primary school/elementary school</meaning></word>
+<word><kanji>小説<reading>しょうせつ</reading></kanji><meaning>(n) novel/story</meaning></word>
+<word><kanji>招待<reading>しょうたい</reading></kanji><meaning>(n,vs) invitation</meaning></word>
+<word><kanji>承知<reading>しょうち</reading></kanji><meaning>(n,vs) consent/acceptance/assent/admitting/acknowledgment/compliance/agreement/awareness</meaning></word>
+<word><kanji>将来<reading>しょうらい</reading></kanji><meaning>(n-adv,n-t) future/prospects</meaning></word>
+<word><kanji>食事<reading>しょくじ</reading></kanji><meaning>(n,vs) meal</meaning></word>
+<word><kanji>食料品<reading>しょくりょうひん</reading></kanji><meaning>(n) foodstuff/groceries</meaning></word>
+<word><kanji>女性<reading>じょせい</reading></kanji><meaning>(n) woman</meaning></word>
+<word><kanji>知らせる<reading>しらせる</reading></kanji><meaning>(v1) to notify/to advise</meaning></word>
+<word><kanji>調べる<reading>しらべる</reading></kanji><meaning>(v1,vt) to investigate/to check up</meaning></word>
+<word><kanji>人口<reading>じんこう</reading></kanji><meaning>(n) (1) population</meaning><meaning>(2) common talk</meaning></word>
+<word><kanji>神社<reading>じんじゃ</reading></kanji><meaning>(n) Shinto shrine</meaning></word>
+<word><kanji>親切<reading>しんせつ</reading></kanji><meaning>(adj-na,n) kindness/gentleness</meaning></word>
+<word><kanji>心配<reading>しんぱい</reading></kanji><meaning>(adj-na,n,vs) worry/concern/anxiety/care</meaning></word>
+<word><kanji>新聞社<reading>しんぶんしゃ</reading></kanji><meaning>(n) newspaper company</meaning></word>
+<word><kanji>水泳<reading>すいえい</reading></kanji><meaning>(n,vs) swimming</meaning></word>
+<word><kanji>水道<reading>すいどう</reading></kanji><meaning>(n) water service/water supply</meaning></word>
+<word><kanji>ずいぶん</kanji><meaning>(adj-na,n-adv) extremely</meaning></word>
+<word><kanji>数学<reading>すうがく</reading></kanji><meaning>(n) mathematics/arithmetic</meaning></word>
+<word><kanji>スーツケース</kanji><meaning>(n) suitcase</meaning></word>
+<word><kanji>過ぎる<reading>すぎる</reading></kanji><meaning>(v1,vi) to pass/to go beyond/to elapse/to exceed</meaning></word>
+<word><kanji>~すぎる</kanji></word>
+<word><kanji>すく<reading>（おなかがすく）</reading></kanji><meaning>(v5k) to be transparent/to leave a gap</meaning></word>
+<word><kanji>すく<reading>（すいた電車）</reading></kanji><meaning>(v5k) to be transparent/to leave a gap</meaning></word>
+<word><kanji>すくない</kanji><meaning>(adj) few/a little/scarce/insufficient/seldom</meaning></word>
+<word><kanji>すごい</kanji><meaning>(adj) terrible/dreadful/terrific/amazing/great/wonderful/to a great extent</meaning></word>
+<word><kanji>すっかり</kanji><meaning>(adv) all/completely/thoroughly</meaning></word>
+<word><kanji>すっと</kanji><meaning>(adv,n) straight/quickly/directly/all of a sudden/quietly/gently/softly</meaning></word>
+<word><kanji>ステレオ</kanji><meaning>(n) stereo</meaning></word>
+<word><kanji>捨てる<reading>すてる</reading></kanji><meaning>(v1) to throw away/to cast aside/to abandon/to resign</meaning></word>
+<word><kanji>砂<reading>すな</reading></kanji><meaning>(n) sand/grit</meaning></word>
+<word><kanji>すばらしい</kanji><meaning>(adj) wonderful/splendid/magnificent</meaning></word>
+<word><kanji>すべる</kanji><meaning>(v1) to control/to supervise</meaning></word>
+<word><kanji>隅<reading>すみ</reading></kanji><meaning>(n,n-suf) corner/nook</meaning></word>
+<word><kanji>済む<reading>すむ</reading></kanji><meaning>(v5m) to finish/to end/to be completed</meaning></word>
+<word><kanji>すり</kanji><meaning>(n) pickpocket</meaning></word>
+<word><kanji>すると</kanji><meaning>(conj) thereupon/hereupon</meaning></word>
+<word><kanji>~製<reading>~せい</reading></kanji></word>
+<word><kanji>生活<reading>せいかつ</reading></kanji><meaning>(n,vs) living/life (one's daily existence)/livelihood</meaning></word>
+<word><kanji>政治<reading>せいじ</reading></kanji><meaning>(n) politics/government</meaning></word>
+<word><kanji>西洋<reading>せいよう</reading></kanji><meaning>(n) the west/Western countries</meaning></word>
+<word><kanji>世界<reading>せかい</reading></kanji><meaning>(n) the world/society/the universe</meaning></word>
+<word><kanji>席<reading>せき</reading></kanji><meaning>(n) seat</meaning></word>
+<word><kanji>説明<reading>せつめい</reading></kanji><meaning>(n,vs) explanation/exposition</meaning></word>
+<word><kanji>背中<reading>せなか</reading></kanji><meaning>(n) back (of body)</meaning></word>
+<word><kanji>ぜひ</kanji><meaning>(adv,n) (uk) certainly/without fail</meaning></word>
+<word><kanji>世話<reading>せわ</reading></kanji><meaning>(n,vs) looking after/help/aid/assistance</meaning></word>
+<word><kanji>線<reading>せん</reading></kanji><meaning>(n,n-suf) line (also telephone, railway)/wire/beam</meaning></word>
+<word><kanji>ぜんぜん</kanji><meaning>(adv) (1) wholly/entirely/completely</meaning><meaning>(2) not at all (with neg. verb)</meaning></word>
+<word><kanji>戦争<reading>せんそう</reading></kanji><meaning>(n,vs) war</meaning></word>
+<word><kanji>先輩<reading>せんぱい</reading></kanji><meaning>(n) senior (at work or school)/superior/elder/older graduate/progenitor/old-timer</meaning></word>
+<word><kanji>専門<reading>せんもん</reading></kanji><meaning>(n) speciality/subject of study/expert</meaning></word>
+<word><kanji>そう<reading>（指示詞）</reading></kanji><meaning>destroy</meaning></word>
+<word><kanji>相談<reading>そうだん</reading></kanji><meaning>(n,vs) consultation/discussion</meaning></word>
+<word><kanji>育てる<reading>そだてる</reading></kanji><meaning>(v1,vt) to raise/to rear/to bring up</meaning></word>
+<word><kanji>卒業<reading>そつぎょう</reading></kanji><meaning>(n,vs) graduation</meaning></word>
+<word><kanji>祖父<reading>そふ</reading></kanji><meaning>(n) grandfather</meaning></word>
+<word><kanji>祖母<reading>そぼ</reading></kanji><meaning>(n) grandmother</meaning></word>
+<word><kanji>それで</kanji><meaning>(uk) and (conj)/thereupon/because of that</meaning></word>
+<word><kanji>それに</kanji><meaning>(uk) besides/moreover</meaning></word>
+<word><kanji>それほど</kanji><meaning>(adv) (uk) to that degree/extent</meaning></word>
+<word><kanji>そろそろ</kanji><meaning>(n) gradually/steadily/quietly/slowly/soon</meaning></word>
+<word><kanji>そんな</kanji><meaning>(adj-na,adj-pn,adv,n) such/like that/that sort of</meaning></word>
+<word><kanji>~代<reading>~だい</reading></kanji></word>
+<word><kanji>退院<reading>たいいん</reading></kanji><meaning>(n,vs) leaving hospital</meaning></word>
+<word><kanji>大学生<reading>だいがくせい</reading></kanji><meaning>(n) college student</meaning></word>
+<word><kanji>大事<reading>だいじ</reading></kanji><meaning>(adj-na,n) important/valuable/serious matter</meaning></word>
+<word><kanji>だいたい</kanji><meaning>(n) battalion</meaning></word>
+<word><kanji>タイプ</kanji><meaning>(n) type/style/typing</meaning></word>
+<word><kanji>だいぶ<reading>（副詞）</reading></kanji><meaning>(adv) considerably/greatly/a lot</meaning></word>
+<word><kanji>台風<reading>たいふう</reading></kanji><meaning>(n) typhoon</meaning></word>
+<word><kanji>倒れる<reading>たおれる</reading></kanji><meaning>(v1,vi) to collapse/to break down/to go bankrupt/to fall/to drop/to die/to succumb to/to fall senseless/to be ruined/to have a bad debt</meaning></word>
+<word><kanji>だから<reading>（接続詞）</reading></kanji><meaning>(conj,n) so/therefore</meaning></word>
+<word><kanji>確か<reading>たしか</reading></kanji><meaning>(adj-na,adv,exp,n) certain/sure/definite/if I'm not mistaken/if I remember correctly</meaning></word>
+<word><kanji>足す<reading>たす</reading></kanji><meaning>(v5s) to add (numbers)/to do (e.g. one's business)</meaning></word>
+<word><kanji>~だす</kanji></word>
+<word><kanji>訪ねる<reading>たずねる</reading></kanji><meaning>(v1) to visit</meaning></word>
+<word><kanji>正しい<reading>ただしい</reading></kanji><meaning>(adj) right/just/correct/righteous/honest/truthful/proper/straightforward/perfect</meaning></word>
+<word><kanji>畳<reading>たたみ</reading></kanji><meaning>(n) tatami mat (Japanese straw floor coverings)</meaning></word>
+<word><kanji>立てる<reading>たてる</reading></kanji><meaning>(v1) to stand (something) up/to erect (something)</meaning></word>
+<word><kanji>建てる<reading>たてる</reading></kanji><meaning>(v1) to build/to construct</meaning></word>
+<word><kanji>例えば<reading>たとえば</reading></kanji><meaning>(adv) for example/e.g.</meaning></word>
+<word><kanji>棚<reading>たな</reading></kanji><meaning>(n) shelves/rack</meaning></word>
+<word><kanji>楽む<reading>たのしむ</reading></kanji></word>
+<word><kanji>たまに</kanji><meaning>(adv,suf) occasionally/once in a while</meaning></word>
+<word><kanji>ため</kanji><meaning>(n) cesspool/sink/manure sink</meaning></word>
+<word><kanji>だめ</kanji><meaning>(adj-na,n) useless/no good/hopeless</meaning></word>
+<word><kanji>足りる<reading>たりる</reading></kanji><meaning>(v1) to be sufficient/to be enough</meaning></word>
+<word><kanji>男性<reading>だんせい</reading></kanji><meaning>(n) male/man</meaning></word>
+<word><kanji>暖房<reading>だんぼう</reading></kanji><meaning>(n) heating</meaning></word>
+<word><kanji>血<reading>ち</reading></kanji><meaning>(n) blood/consanguinity</meaning></word>
+<word><kanji>小さな<reading>ちいさな</reading></kanji></word>
+<word><kanji>力<reading>ちから</reading></kanji><meaning>(n-suf) strength/power</meaning></word>
+<word><kanji>ちっとも</kanji><meaning>(adv) not at all (neg. verb)</meaning></word>
+<word><kanji>~ちゃん</kanji></word>
+<word><kanji>注意<reading>ちゅうい</reading></kanji><meaning>(n,vs) caution/being careful/attention (heed)/warning/advice</meaning></word>
+<word><kanji>中学校<reading>ちゅうがっこう</reading></kanji><meaning>(n) junior high school/middle school pupil</meaning></word>
+<word><kanji>注射<reading>ちゅうしゃ</reading></kanji><meaning>(n,vs) injection</meaning></word>
+<word><kanji>駐車場<reading>ちゅうしゃじょう</reading></kanji><meaning>(n) parking lot/parking place</meaning></word>
+<word><kanji>地理<reading>ちり</reading></kanji><meaning>(n) geography</meaning></word>
+<word><kanji>~ついて</kanji></word>
+<word><kanji>捕まえる<reading>つかまえる</reading></kanji><meaning>(v1) to catch/to arrest/to seize</meaning></word>
+<word><kanji>つき<reading>（月と太陽）</reading></kanji><meaning>(n,n-suf) attached to/impression/sociality/appearance/furnished with/under/to</meaning></word>
+<word><kanji>~月<reading>~つき</reading></kanji></word>
+<word><kanji>つく<reading>（電灯がつく）</reading></kanji><meaning>(v5k) to possess/to haunt/to attach to</meaning></word>
+<word><kanji>つける<reading>（気をつける）</reading></kanji><meaning>(v1,vt) (1) to attach/to join/to add/to append/to affix/to stick/to glue/to fasten/to sew on/to apply (ointment)</meaning><meaning>(2) to furnish (a house with)</meaning><meaning>(3) to wear/to put on</meaning><meaning>(4) to keep a diary/to make an entry</meaning><meaning>(5) to appraise/to set (a price)</meaning><meaning>(7) to bring alongside</meaning><meaning>(7) to place (under guard or doctor)</meaning><meaning>(8) to follow/to shadow</meaning><meaning>(9) to load/to give (courage to)</meaning><meaning>(10) to keep (an eye on)</meaning><meaning>(11) to establish (relations or understanding)</meaning></word>
+<word><kanji>漬ける<reading>つける</reading></kanji><meaning>(v1) to soak/to moisten/to pickle</meaning></word>
+<word><kanji>都合<reading>つごう</reading></kanji><meaning>(adv,n) circumstances/condition/convenience</meaning></word>
+<word><kanji>伝える<reading>つたえる</reading></kanji><meaning>(v1) to convey/to report/to transmit/to communicate/to tell/to impart/to propagate/to teach/to bequeath</meaning></word>
+<word><kanji>続く<reading>つづく</reading></kanji><meaning>(v5k,vi) to be continued</meaning></word>
+<word><kanji>続ける<reading>つづける</reading></kanji><meaning>(v1,vt) to continue/to keep up/to keep on</meaning></word>
+<word><kanji>包む<reading>つつむ</reading></kanji><meaning>(v5m) to be engulfed in/to be enveloped by/to wrap up/to tuck in/to pack/to do up/to cover with/to dress in/to conceal</meaning></word>
+<word><kanji>妻<reading>つま</reading></kanji><meaning>(n) (hum) wife</meaning></word>
+<word><kanji>つもり</kanji><meaning>(n) intention/plan</meaning></word>
+<word><kanji>釣る<reading>つる</reading></kanji><meaning>(v5r) to fish</meaning></word>
+<word><kanji>連れる<reading>つれる</reading></kanji><meaning>(v1) to lead/to take (a person)</meaning></word>
+<word><kanji>丁寧<reading>ていねい</reading></kanji><meaning>(adj-na,n) polite/courteous/careful/care/kind/close/thorough/conscientious</meaning></word>
+<word><kanji>テキスト</kanji><meaning>(n) (1) text</meaning><meaning>(2) text book</meaning></word>
+<word><kanji>適当<reading>てきとう</reading></kanji><meaning>(adj-na,n) fitness/suitability/adequacy/relevance</meaning></word>
+<word><kanji>できる<reading>（銀行ができる）</reading></kanji><meaning>(v1) (uk) to be able to/to be ready/to occur</meaning></word>
+<word><kanji>できるだけ</kanji><meaning>if at all possible</meaning></word>
+<word><kanji>手伝う<reading>てつだう</reading></kanji><meaning>(v5u) to help/to assist/to take part in</meaning></word>
+<word><kanji>テニスコート</kanji><meaning>tennis court</meaning></word>
+<word><kanji>手袋<reading>てぶくろ</reading></kanji><meaning>(n) glove</meaning></word>
+<word><kanji>寺<reading>てら</reading></kanji><meaning>(n) temple</meaning></word>
+<word><kanji>点<reading>てん</reading></kanji><meaning>(n,n-suf) spot/mark/point/dot</meaning></word>
+<word><kanji>店員<reading>てんいん</reading></kanji><meaning>(n) shop assistant/employee/clerk/salesperson</meaning></word>
+<word><kanji>天気予報<reading>てんきよほう</reading></kanji><meaning>weather forecast/weather report</meaning></word>
+<word><kanji>電灯<reading>でんとう</reading></kanji><meaning>(n) electric light</meaning></word>
+<word><kanji>電報<reading>でんぽう</reading></kanji><meaning>(n) telegram</meaning></word>
+<word><kanji>展覧会<reading>てんらんかい</reading></kanji><meaning>(n) exhibition</meaning></word>
+<word><kanji>道具<reading>どうぐ</reading></kanji><meaning>(n) implement/tool/means</meaning></word>
+<word><kanji>とうとう</kanji><meaning>vast/calm</meaning></word>
+<word><kanji>動物園<reading>どうぶつえん</reading></kanji><meaning>(n) zoo/zoological gardens</meaning></word>
+<word><kanji>遠く<reading>とおく</reading></kanji><meaning>(adj-no,n-adv,n) far away/distant/at a distance/distant place/by far</meaning></word>
+<word><kanji>通り<reading>とおり</reading></kanji><meaning>(n-suf) in accordance with ~/following ~/~ Street/~ Avenue</meaning></word>
+<word><kanji>通る<reading>とおる</reading></kanji><meaning>(v5r) to pass (by)/to go through/to walk along/to pass exams</meaning></word>
+<word><kanji>~とき</kanji></word>
+<word><kanji>特に<reading>とくに</reading></kanji><meaning>(adv) particularly/especially</meaning></word>
+<word><kanji>特別<reading>とくべつ</reading></kanji><meaning>(adj-na,adv,n) special</meaning></word>
+<word><kanji>とこや</kanji><meaning>(n) barber</meaning></word>
+<word><kanji>年<reading>とし</reading></kanji><meaning>(n-adv,n) year/age</meaning></word>
+<word><kanji>途中<reading>とちゅう</reading></kanji><meaning>(n-adv,n-t) on the way/en route/midway</meaning></word>
+<word><kanji>特急<reading>とっきゅう</reading></kanji><meaning>(n) limited express (train, faster than an express)</meaning></word>
+<word><kanji>どっち</kanji><meaning>(n) (uk) which way/which one</meaning></word>
+<word><kanji>届ける<reading>とどける</reading></kanji><meaning>(v1) to deliver/to forward/to send/to report/to file notice (to the authorities)</meaning></word>
+<word><kanji>泊まる<reading>とまる</reading></kanji><meaning>(v5r) to stay at (e.g. hotel)</meaning></word>
+<word><kanji>止める<reading>とめる</reading></kanji><meaning>(v1,vt) to end/to stop/to cease/to resign</meaning></word>
+<word><kanji>取り替える<reading>とりかえる</reading></kanji><meaning>(v1) to exchange/to replace</meaning></word>
+<word><kanji>泥棒<reading>どろぼう</reading></kanji><meaning>(n,vs) thief/burglar/robber/theft</meaning></word>
+<word><kanji>直す<reading>なおす</reading></kanji><meaning>(v5s,vt) to cure/to heal/to fix/to correct/to repair</meaning></word>
+<word><kanji>直る<reading>なおる</reading></kanji><meaning>(v5r,vi) to be cured/to heal/to get mended/to get well/to be repaired/to be fixed</meaning></word>
+<word><kanji>治る<reading>なおる</reading></kanji><meaning>(v5r,vi) to be cured/to heal/to get mended/to get well/to be repaired/to be fixed</meaning></word>
+<word><kanji>なかなか</kanji><meaning>(adv) (uk) very/considerably/easily/readily/by no means (neg)/fairly/quite/highly/rather</meaning></word>
+<word><kanji>~ながら</kanji></word>
+<word><kanji>泣く<reading>なく</reading></kanji><meaning>(v5k) to cry/to sing (bird)</meaning></word>
+<word><kanji>無くす<reading>なくす</reading></kanji><meaning>(v5s) to lose something/to get rid of</meaning></word>
+<word><kanji>無くなる<reading>なくなる</reading></kanji><meaning>(v5r) to disappear/to get lost</meaning></word>
+<word><kanji>亡くなる<reading>なくなる</reading></kanji><meaning>(v5r) to die</meaning></word>
+<word><kanji>投げる<reading>なげる</reading></kanji><meaning>(v1) to throw/to cast away</meaning></word>
+<word><kanji>なさる</kanji><meaning>(v5aru) (hon) to do</meaning></word>
+<word><kanji>なぜ</kanji><meaning>(adv) (uk) why/how</meaning></word>
+<word><kanji>鳴る<reading>なる</reading></kanji><meaning>(v5r) to sound/to ring/to resound/to echo/to roar/to rumble</meaning></word>
+<word><kanji>なるべく</kanji><meaning>(adv) as much as possible</meaning></word>
+<word><kanji>なるほど</kanji><meaning>(adv,exp) (uk) I see/That's right!/indeed</meaning></word>
+<word><kanji>慣れる<reading>なれる</reading></kanji><meaning>(v1) to grow accustomed to</meaning></word>
+<word><kanji>苦い<reading>にがい</reading></kanji><meaning>(adj) bitter</meaning></word>
+<word><kanji>~にくい</kanji></word>
+<word><kanji>逃げる<reading>にげる</reading></kanji><meaning>(v1) to escape/to run away</meaning></word>
+<word><kanji>日記<reading>にっき</reading></kanji><meaning>(n) diary/journal</meaning></word>
+<word><kanji>入院<reading>にゅういん</reading></kanji><meaning>(n,vs) hospitalization</meaning></word>
+<word><kanji>入学<reading>にゅうがく</reading></kanji><meaning>(n) entry to school or university/matriculation</meaning></word>
+<word><kanji>似る<reading>にる</reading></kanji><meaning>(v1) to resemble/to be similar</meaning></word>
+<word><kanji>人形<reading>にんぎょう</reading></kanji><meaning>(n) doll/puppet/figure</meaning></word>
+<word><kanji>盗む<reading>ぬすむ</reading></kanji><meaning>(v5m) to steal</meaning></word>
+<word><kanji>塗る<reading>ぬる</reading></kanji><meaning>(v5r) to paint/to plaster/to lacquer/to varnish</meaning></word>
+<word><kanji>ぬれる</kanji><meaning>(v1) to get wet</meaning></word>
+<word><kanji>ねだん</kanji><meaning>(n) price/cost</meaning></word>
+<word><kanji>熱<reading>ねつ</reading></kanji><meaning>(n,n-suf) fever/temperature</meaning></word>
+<word><kanji>ねっしん</kanji><meaning>(adj-na,n) zeal/enthusiasm</meaning></word>
+<word><kanji>眠い<reading>ねむい</reading></kanji><meaning>(adj) (1) aestivation/estivation</meaning><meaning>(2) sleepy/drowsy</meaning></word>
+<word><kanji>眠る<reading>ねむる</reading></kanji><meaning>(v5r) to sleep</meaning></word>
+<word><kanji>残る<reading>のこる</reading></kanji><meaning>(v5r) to remain/to be left</meaning></word>
+<word><kanji>のど</kanji><meaning>(n) (uk) throat</meaning></word>
+<word><kanji>乗り換える<reading>のりかえる</reading></kanji><meaning>(v1) to transfer (trains)/to change (bus, train)</meaning></word>
+<word><kanji>乗り物<reading>のりもの</reading></kanji><meaning>(n) vehicle</meaning></word>
+<word><kanji>葉<reading>は</reading></kanji><meaning>(n) leaf</meaning></word>
+<word><kanji>場合<reading>ばあい</reading></kanji><meaning>(n-adv,n) case/situation</meaning></word>
+<word><kanji>倍<reading>ばい</reading></kanji><meaning>(n,vi,vs,vt) twice/times/-fold/double/be doubled/increase</meaning></word>
+<word><kanji>拝見<reading>はいけん</reading></kanji><meaning>(n,vs) (hum) (pol) seeing/look at</meaning></word>
+<word><kanji>歯医者<reading>はいしゃ</reading></kanji><meaning>(n) dentist</meaning></word>
+<word><kanji>~ばかり</kanji></word>
+<word><kanji>運ぶ<reading>はこぶ</reading></kanji><meaning>(v5b) to transport</meaning></word>
+<word><kanji>始める<reading>はじめる</reading></kanji><meaning>(v1,vt) to start/to begin</meaning></word>
+<word><kanji>はず</kanji><meaning>(n) it should be so</meaning></word>
+<word><kanji>恥ずかしい<reading>はずかしい</reading></kanji><meaning>(adj) shy/ashamed/embarrassed</meaning></word>
+<word><kanji>発音<reading>はつおん</reading></kanji><meaning>(n,vs) pronunciation</meaning></word>
+<word><kanji>はっきり</kanji><meaning>(adv,n) clearly/plainly/distinctly</meaning></word>
+<word><kanji>花見<reading>はなみ</reading></kanji><meaning>(n,vs) cherry-blossom viewing/flower viewing</meaning></word>
+<word><kanji>払う<reading>はらう</reading></kanji><meaning>(v5u) (1) to pay</meaning><meaning>(2) to brush/to wipe</meaning></word>
+<word><kanji>番組<reading>ばんぐみ</reading></kanji><meaning>(n) program (e.g. TV)</meaning></word>
+<word><kanji>反対<reading>はんたい</reading></kanji><meaning>(adj-na,n,vs) opposition/resistance/antagonism/hostility/contrast/objection/dissension/reverse/opposite/vice versa</meaning></word>
+<word><kanji>日<reading>ひ</reading></kanji><meaning>(n-adv,n-t) sun/sunshine/day</meaning></word>
+<word><kanji>火<reading>ひ</reading></kanji><meaning>(n,n-suf) fire/flame/blaze</meaning></word>
+<word><kanji>冷える<reading>ひえる</reading></kanji><meaning>(v1,vi) to grow cold/to get chilly/to cool down</meaning></word>
+<word><kanji>引き出し<reading>ひきだし</reading></kanji><meaning>(n) drawer/drawing out</meaning></word>
+<word><kanji>ひげ</kanji><meaning>(n) moustache/beard/whiskers</meaning></word>
+<word><kanji>飛行場<reading>ひこうじょう</reading></kanji><meaning>(n) airport</meaning></word>
+<word><kanji>久しぶり<reading>ひさしぶり</reading></kanji><meaning>(exp) after a long time</meaning></word>
+<word><kanji>美術館<reading>びじゅつかん</reading></kanji><meaning>(n) art gallery/art museum</meaning></word>
+<word><kanji>非常に<reading>ひじょうに</reading></kanji><meaning>(adv) very/extremely/exceedingly</meaning></word>
+<word><kanji>びっくりする</kanji></word>
+<word><kanji>引っ越す<reading>ひっこす</reading></kanji><meaning>(v5s) to move/to change residence</meaning></word>
+<word><kanji>必要<reading>ひつよう</reading></kanji><meaning>(adj-na,n) necessary/essential/indispensable</meaning></word>
+<word><kanji>ひどい</kanji><meaning>(adj) cruel/awful/severe/very bad/serious/terrible/heavy/violent</meaning></word>
+<word><kanji>開く<reading>ひらく</reading></kanji><meaning>(v5k) to open (e.g. a festival)</meaning></word>
+<word><kanji>ビル</kanji><meaning>(n) (abbr) building/bill</meaning></word>
+<word><kanji>昼間<reading>ひるま</reading></kanji><meaning>(n-adv,n-t) daytime/during the day</meaning></word>
+<word><kanji>昼休み<reading>ひるやすみ</reading></kanji><meaning>(n-adv,n-t) lunch break/noon recess/noon rest period</meaning></word>
+<word><kanji>拾う<reading>ひろう</reading></kanji><meaning>(v5u) to pick up/to find/to gather</meaning></word>
+<word><kanji>増える<reading>ふえる</reading></kanji><meaning>(v1,vi) to increase/to multiply</meaning></word>
+<word><kanji>深い<reading>ふかい</reading></kanji><meaning>(adj) deep/profound/thick/close</meaning></word>
+<word><kanji>複雑<reading>ふくざつ</reading></kanji><meaning>(adj-na,n) complexity/complication</meaning></word>
+<word><kanji>復習<reading>ふくしゅう</reading></kanji><meaning>(n,vs) review/revision</meaning></word>
+<word><kanji>普通<reading>ふつう</reading></kanji><meaning>(adj-na,adj-no,adv,n) (1) generally/ordinarily/usually</meaning><meaning>(2) train that stops at every station</meaning></word>
+<word><kanji>ぶどう</kanji><meaning>(n) grapes</meaning></word>
+<word><kanji>太る<reading>ふとる</reading></kanji><meaning>(v5r) to grow fat (stout, plump)/to become fat</meaning></word>
+<word><kanji>布団<reading>ふとん</reading></kanji><meaning>(n) bedding (Japanese style)/futon</meaning></word>
+<word><kanji>舟<reading>ふね</reading></kanji><meaning>(n) ship/boat/watercraft/shipping/vessel/steamship</meaning></word>
+<word><kanji>船<reading>ふね</reading></kanji><meaning>(n) ship/boat/watercraft/shipping/vessel/steamship</meaning></word>
+<word><kanji>不便<reading>ふべん</reading></kanji><meaning>(adj-na,n) inconvenience/inexpediency/unhandiness</meaning></word>
+<word><kanji>踏む<reading>ふむ</reading></kanji><meaning>(v5m) to step on/to tread on</meaning></word>
+<word><kanji>プレゼント</kanji><meaning>(n) present/gift</meaning></word>
+<word><kanji>文化<reading>ぶんか</reading></kanji><meaning>(n) culture/civilization</meaning></word>
+<word><kanji>文学<reading>ぶんがく</reading></kanji><meaning>(n) literature</meaning></word>
+<word><kanji>文法<reading>ぶんぽう</reading></kanji><meaning>(n) grammar</meaning></word>
+<word><kanji>べつに</kanji><meaning>(adv) (not) particularly/nothing</meaning></word>
+<word><kanji>ベル</kanji><meaning>(n) bell (BEL)</meaning></word>
+<word><kanji>変<reading>へん</reading></kanji><meaning>(adj-na,n) change/incident/disturbance/strange/flat (music)/odd/peculiar/suspicious-looking/queer/eccentric/funny</meaning></word>
+<word><kanji>返事<reading>へんじ</reading></kanji><meaning>(n,vs) reply/answer</meaning></word>
+<word><kanji>貿易<reading>ぼうえき</reading></kanji><meaning>(n) trade (foreign)</meaning></word>
+<word><kanji>放送<reading>ほうそう</reading></kanji><meaning>(n,vs) broadcast/broadcasting</meaning></word>
+<word><kanji>法律<reading>ほうりつ</reading></kanji><meaning>(n) law</meaning></word>
+<word><kanji>僕<reading>ぼく</reading></kanji><meaning>(n) (male) I/manservant</meaning></word>
+<word><kanji>星<reading>ほし</reading></kanji><meaning>(n) star</meaning></word>
+<word><kanji>ほど</kanji><meaning>(n) one's walking pace</meaning></word>
+<word><kanji>ほとんど</kanji><meaning>(n-adv,n-t) mostly/almost</meaning></word>
+<word><kanji>ほめる</kanji><meaning>(v1) to praise/to admire/to speak well</meaning></word>
+<word><kanji>翻訳<reading>ほんやく</reading></kanji><meaning>(n,vs) translation/de-encryption/deciphering</meaning></word>
+<word><kanji>参る<reading>まいる</reading></kanji><meaning>(v5r) (1) (hum) to go/to come/to call</meaning><meaning>(2) to be defeated/to collapse/to die</meaning><meaning>(3) to be annoyed/to be nonplussed</meaning><meaning>(4) to be madly in love</meaning><meaning>(5) to visit (shrine, grave)</meaning></word>
+<word><kanji>負ける<reading>まける</reading></kanji><meaning>(v1) to lose/to be defeated</meaning></word>
+<word><kanji>まじめ</kanji><meaning>(adj-na,n) diligent/serious/honest</meaning></word>
+<word><kanji>まず</kanji><meaning>(adv) first (of all)/to start with/about/almost/hardly (with neg. verb)/anyway/well/now</meaning></word>
+<word><kanji>または</kanji><meaning>(conj,exp) or/otherwise</meaning></word>
+<word><kanji>間違える<reading>まちがえる</reading></kanji><meaning>(v1) to err/to make a mistake</meaning></word>
+<word><kanji>間に合う<reading>まにあう</reading></kanji><meaning>(v5u) (1) to be in time for</meaning><meaning>(2) to serve (suit, meet) the purpose/to be good enough/to be enough</meaning></word>
+<word><kanji>~まま</kanji></word>
+<word><kanji>周り<reading>まわり</reading></kanji><meaning>(n,n-suf) circumference/surroundings/circulation</meaning></word>
+<word><kanji>回る<reading>まわる</reading></kanji><meaning>(v5r) to wander around</meaning></word>
+<word><kanji>漫画<reading>まんが</reading></kanji><meaning>(n) comic/cartoon</meaning></word>
+<word><kanji>真中<reading>まんなか</reading></kanji><meaning>(n) middle/centre/mid-way</meaning></word>
+<word><kanji>見える<reading>みえる</reading></kanji><meaning>(v1) to be seen/to be in sight/to look/to seem/to appear</meaning></word>
+<word><kanji>湖<reading>みずうみ</reading></kanji><meaning>(n) lake</meaning></word>
+<word><kanji>みそ<reading>（みそ汁）</reading></kanji><meaning>(n) (1) miso/bean paste</meaning><meaning>(2) key (main) point</meaning></word>
+<word><kanji>見つかる<reading>みつかる</reading></kanji><meaning>(v5r) (uk) to be found/to be discovered</meaning></word>
+<word><kanji>見つける<reading>みつける</reading></kanji><meaning>(v1) to be familiar/to discover/to find fault/to detect/to find out/to locate</meaning></word>
+<word><kanji>緑<reading>みどり</reading></kanji><meaning>(n) greenery</meaning></word>
+<word><kanji>皆<reading>みな</reading></kanji><meaning>(adv,n) all/everyone/everybody</meaning></word>
+<word><kanji>港<reading>みなと</reading></kanji><meaning>(n) harbour/port</meaning></word>
+<word><kanji>迎える<reading>むかえる</reading></kanji><meaning>(v1) to go out to meet/to accept as a member of a group or family</meaning></word>
+<word><kanji>昔<reading>むかし</reading></kanji><meaning>(adj-no,n-adv,n-t) olden days/former</meaning></word>
+<word><kanji>虫<reading>むし</reading></kanji><meaning>(n) insect</meaning></word>
+<word><kanji>息子<reading>むすこ</reading></kanji><meaning>(n) (hum) son</meaning></word>
+<word><kanji>娘<reading>むすめ</reading></kanji><meaning>(n) (hum) daughter</meaning></word>
+<word><kanji>村<reading>むら</reading></kanji><meaning>(n) village</meaning></word>
+<word><kanji>無理<reading>むり</reading></kanji><meaning>(adj-na,n,vs) unreasonable/impossible/overdoing</meaning></word>
+<word><kanji>~目<reading>~め</reading></kanji></word>
+<word><kanji>召し上がる<reading>めしあがる</reading></kanji><meaning>(v5r) (pol) to eat</meaning></word>
+<word><kanji>珍しい<reading>めずらしい</reading></kanji><meaning>(adj) unusual/rare</meaning></word>
+<word><kanji>申し上げる<reading>もうしあげる</reading></kanji><meaning>(v1) to say/to tell/to state</meaning></word>
+<word><kanji>申す<reading>もうす</reading></kanji><meaning>(v5s) (hum) to be called/to say</meaning></word>
+<word><kanji>もうすぐ</kanji></word>
+<word><kanji>もし</kanji><meaning>(n) sham examination</meaning></word>
+<word><kanji>戻る<reading>もどる</reading></kanji><meaning>(v5r) to turn back/to return</meaning></word>
+<word><kanji>木綿<reading>もめん</reading></kanji><meaning>(n) cotton</meaning></word>
+<word><kanji>もらう</kanji><meaning>(v5u) (uk) to receive</meaning></word>
+<word><kanji>焼く<reading>やく</reading></kanji><meaning>(v5k) to bake/to grill</meaning></word>
+<word><kanji>役に立つ<reading>やくにたつ</reading></kanji><meaning>(v5t) to be helpful/to be useful</meaning></word>
+<word><kanji>約束<reading>やくそく</reading></kanji><meaning>(n,vs) arrangement/promise</meaning></word>
+<word><kanji>焼ける<reading>やける</reading></kanji><meaning>(v1,vi) to burn/to be roasted/to be sunburnt</meaning></word>
+<word><kanji>優しい<reading>やさしい</reading></kanji><meaning>(adj) tender/kind/gentle/graceful/affectionate/amiable/suave</meaning></word>
+<word><kanji>~やすい</kanji></word>
+<word><kanji>やせる</kanji><meaning>(v1) to become thin/to lose weight/to reduce (one's) weight/to slim</meaning></word>
+<word><kanji>やっと</kanji><meaning>(adv) at last/at length</meaning></word>
+<word><kanji>やはり</kanji><meaning>(adv,exp) (uk) also/as I thought/still/in spite of/absolutely/of course</meaning></word>
+<word><kanji>やっぱり</kanji><meaning>(adv,exp) (uk) also/as I thought/still/in spite of/absolutely/of course</meaning></word>
+<word><kanji>やむ<reading>（雨／風がやむ）</reading></kanji><meaning>(v5m) to fall ill/to be ill</meaning></word>
+<word><kanji>やめる<reading>（たばこをやめる）</reading></kanji><meaning>(v1) to retire</meaning></word>
+<word><kanji>やる<reading>（”あげる”の意味）</reading></kanji><meaning>(v5r) (col) (uk) to do/to have sexual intercourse/to kill/to give (to inferiors, animals, etc.)/to dispatch (a letter)/to send/to study/to perform/to play (sports, game)/to have (eat, drink, smoke)/to row (a boat)/to run or operate (a restaurant)</meaning></word>
+<word><kanji>柔らかい<reading>やわらかい</reading></kanji><meaning>(adj) soft/tender/limp</meaning></word>
+<word><kanji>湯<reading>ゆ</reading></kanji><meaning>(n) hot water</meaning></word>
+<word><kanji>夕飯<reading>ゆうはん</reading></kanji><meaning>(n) evening meal</meaning></word>
+<word><kanji>輸出<reading>ゆしゅつ</reading></kanji><meaning>(n,vs) export</meaning></word>
+<word><kanji>指<reading>ゆび</reading></kanji><meaning>(n) finger</meaning></word>
+<word><kanji>指輪<reading>ゆびわ</reading></kanji><meaning>(n) (finger) ring</meaning></word>
+<word><kanji>夢<reading>ゆめ</reading></kanji><meaning>(n) dream</meaning></word>
+<word><kanji>揺れる<reading>ゆれる</reading></kanji><meaning>(v1) to shake/to sway</meaning></word>
+<word><kanji>用<reading>よう</reading></kanji><meaning>(n,n-suf) task/business/use</meaning></word>
+<word><kanji>用意<reading>ようい</reading></kanji><meaning>(n,vs) preparation</meaning></word>
+<word><kanji>用事<reading>ようじ</reading></kanji><meaning>(n) tasks/things to do</meaning></word>
+<word><kanji>汚れる<reading>よごれる</reading></kanji><meaning>(v1) to get dirty/to become dirty</meaning></word>
+<word><kanji>予習<reading>よしゅう</reading></kanji><meaning>(n,vs) preparation for a lesson</meaning></word>
+<word><kanji>予定<reading>よてい</reading></kanji><meaning>(n,vs) plans/arrangement/schedule/program/expectation/estimate</meaning></word>
+<word><kanji>予約<reading>よやく</reading></kanji><meaning>(n,vs) reservation/contract/subscription/booking/pledge/advance order</meaning></word>
+<word><kanji>寄る<reading>よる</reading></kanji><meaning>(v5r) to visit/to drop in/to approach</meaning></word>
+<word><kanji>~によると</kanji></word>
+<word><kanji>喜ぶ<reading>よろこぶ</reading></kanji><meaning>(v5b) to be delighted/to be glad</meaning></word>
+<word><kanji>よろしい</kanji><meaning>(adj) (hon) good/OK/all right/fine/very well/will do/may/can</meaning></word>
+<word><kanji>弱い<reading>よわい</reading></kanji><meaning>(adj) weak/frail/delicate/tender/unskilled/weak (wine)</meaning></word>
+<word><kanji>理由<reading>りゆう</reading></kanji><meaning>(n) reason/pretext/motive</meaning></word>
+<word><kanji>利用<reading>りよう</reading></kanji><meaning>(n,vs) use/utilization/application</meaning></word>
+<word><kanji>両方<reading>りょうほう</reading></kanji><meaning>(n) both sides/both parties</meaning></word>
+<word><kanji>旅館<reading>りょかん</reading></kanji><meaning>(n) Japanese hotel/inn</meaning></word>
+<word><kanji>留守<reading>るす</reading></kanji><meaning>(n) absence/being away from home</meaning></word>
+<word><kanji>歴史<reading>れきし</reading></kanji><meaning>(n) history</meaning></word>
+<word><kanji>連絡<reading>れんらく</reading></kanji><meaning>(n,vs) junction/communication/contact/connection/coordination</meaning></word>
+<word><kanji>沸かす<reading>わかす</reading></kanji><meaning>(v5s,vt) to boil/to heat</meaning></word>
+<word><kanji>別れる<reading>わかれる</reading></kanji><meaning>(v1) to be divided/to part from/to separate/to bid farewell</meaning></word>
+<word><kanji>沸く<reading>わく</reading></kanji><meaning>(v5k) to boil/to grow hot/to get excited/to gush forth</meaning></word>
+<word><kanji>訳<reading>わけ</reading></kanji><meaning>(n) (uk) meaning/reason/circumstances/can be deduced/situation</meaning></word>
+<word><kanji>忘れ物<reading>わすれもの</reading></kanji><meaning>(n) lost article/something forgotten</meaning></word>
+<word><kanji>笑う<reading>わらう</reading></kanji><meaning>(v5u) to laugh/to smile</meaning></word>
+<word><kanji>割合<reading>わりあい</reading></kanji><meaning>(adv,n) (1) rate/ratio/percentage/proportion</meaning><meaning>(2) comparatively</meaning><meaning>(3) contrary to expectations</meaning></word>
+<word><kanji>割れる<reading>われる</reading></kanji><meaning>(v1,vi) to break/to split/to cleave/to fissure/to be smashed/to crack/to be torn</meaning></word>
+</list>
